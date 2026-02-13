@@ -61,6 +61,10 @@ topology = await store.query_topology(snapshot_id, user_id="user123")
 
 预计 v1.0 发布：2026年5月
 
+## 🤝 贡献
+
+欢迎贡献！请查看 [贡献指南](CONTRIBUTING.md) 了解如何参与项目开发。
+
 ## 📖 许可证
 
 Apache License 2.0 - 详见 [LICENSE](LICENSE) 文件
